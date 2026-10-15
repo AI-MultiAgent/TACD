@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use TACD, please cite the accompanying manuscript."
+title: "Geometry Is Not Semantics: Task-Aware and Capacity-Adaptive Distribution Alignment for Multi-Agent Set Representation"
+type: software
+authors:
+  - family-names: Wang
+    given-names: Bo
+  - family-names: Guo
+    given-names: Xiaobo
+  - family-names: Wang
+    given-names: Bingfeng
+  - family-names: Zhang
+    given-names: Peng
+version: 2026.10.15
+date-released: 2026-10-15
+license: MIT
+repository-code: "https://github.com/AI-MultiAgent/TACD"
